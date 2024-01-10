@@ -43,5 +43,3 @@ percentile_intensity_df.to_csv(csv_file_path, index=False)
 
 ## Print the DataFrame
 #print(percentile_intensity_df)
-
-
